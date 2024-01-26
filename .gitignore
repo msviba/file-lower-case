@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LowerFile/LowerFile/LowerFile.cpp
+/LowerFile/x64/Debug
+/LowerFile/LowerFile/x64/Debug
+/LowerFile/.vs/LowerFile
+*.filters
+*.user
